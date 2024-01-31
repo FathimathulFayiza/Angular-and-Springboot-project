@@ -1,0 +1,11 @@
+/* Add any other styles you need */
+
+.mat-toolbar a:hover,
+.mat-toolbar button:hover {
+  color: red;
+  transition: 0.3s;
+}
+
+.mat-toolbar .spacer {
+  flex: 1 1 auto;
+}
